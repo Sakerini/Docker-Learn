@@ -36,6 +36,7 @@ At last we set Default CMD when we use **docker run**.
 
 ## Usage
 When we start our application we have to set ports.
+
 **Example** -- docker run -p 5050:8080 sakerini/simpleweb
 This will mapp port of localhost:5050 to container's 8080 port
 access is now available at localhost:5050
